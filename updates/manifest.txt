@@ -1,2 +1,0 @@
-kitt_ai.exe
-version.txt

@@ -2,3 +2,4 @@ kitt_ai.exe
 version.txt
 video/
 test/
+test2/

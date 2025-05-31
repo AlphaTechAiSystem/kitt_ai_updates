@@ -1,3 +1,4 @@
 kitt_ai.exe
 version.txt
 test/
+video/
